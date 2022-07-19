@@ -1,0 +1,9 @@
+# Data
+data/
+!data/.gitkeep
+
+# Subsequent Studies
+studies/
+
+.DS_Store
+.ipynb_checkpoints/
